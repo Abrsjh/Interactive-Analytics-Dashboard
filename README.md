@@ -2,7 +2,6 @@
 
 A sophisticated React-based analytics dashboard with advanced data visualization, real-time updates, and a responsive design. Built with TypeScript for type safety and performance optimization.
 
-![Analytics Dashboard Screenshot](https://via.placeholder.com/1200x630/1976d2/ffffff?text=Analytics+Dashboard)
 
 ## Features
 
